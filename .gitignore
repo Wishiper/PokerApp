@@ -27,6 +27,5 @@ hs_err_pid*
 *.lock
 *.xml
 *.html
-.gradle
-.idea
 /.gradle/
+/.idea/
