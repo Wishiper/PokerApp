@@ -8,6 +8,7 @@ public class PokerappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PokerappApplication.class, args);
+        System.out.println("Poker App is running");
 	}
 
 }
